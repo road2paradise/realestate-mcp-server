@@ -1,0 +1,1900 @@
+code,name
+4,Tamatea
+6,Whalers Gate
+11,Somerville
+13,Springfield
+15,Mangapakeha
+16,Matokitoki
+23,Papakowhai
+26,Fernhill
+27,Mataura
+28,Mangawhai
+30,Wairau Valley
+35,Pandora
+37,Saint Clair
+38,Wellsford
+41,Windwhistle
+43,Tauranga South
+45,Paparangi
+46,Acacia Bay
+49,Tapu
+53,New Plymouth Central
+54,Rongotea
+56,Kohukohu
+59,Kinloch
+60,Blaketown
+63,Surfdale
+64,Dalmore
+65,Tokomaru
+66,Hokowhitu
+69,Flat Bush
+73,Kairanga
+75,The Cove
+77,Bethells Beach
+78,Islington
+80,Te Whiti
+81,Ahaura
+82,Kaiwharawhara
+84,Westbrook
+85,Parklands
+86,Cable Bay
+88,Pohangina
+89,Saint Heliers
+91,Kilbirnie
+93,Pyramid Valley
+97,Awatoto
+103,Whenuapai
+112,Matarangi
+113,Redcliffs
+116,Ilam
+119,Titirangi
+120,Kerikeri
+121,Gracefield
+122,New Lynn
+127,Pyes Pa
+135,Waianakarua
+136,North East Valley
+137,Raureka
+138,Kakatahi
+139,Clouston Park
+141,Waitahanui
+142,One Tree Point
+144,Takapuna
+145,Tauhoa
+147,Te Rapa Park
+148,Waiwhetu
+153,Avondale
+155,Taupaki
+156,Woodlands
+159,Tapora
+161,Whangateau
+162,Foxton
+167,Mauku
+168,Pakuranga
+169,Pongakawa
+170,Kensington
+171,Te Kohanga
+172,Highcliff
+173,Breaker Bay
+177,Tiraumea
+178,Ohingaiti
+181,Woodstock
+183,Te Aro
+184,South Dunedin
+185,Styx
+188,Whanganui East
+189,Waikuku Beach
+190,Shirley
+197,Camberley
+198,Kimbolton
+203,Milford
+206,Totara Park
+208,Island Bay
+215,Ohauiti
+216,Whanganui Central
+221,Netherby
+223,Leamington
+224,Saint Martins
+232,Swanson
+234,Stag And Spey
+237,Kaikohe
+239,One Tree Hill
+240,Rakino Island
+241,Rothesay Bay
+242,Riversdale
+245,Kohimarama
+247,Forbury
+248,Blairlogie
+249,Pirimai
+250,Harbour View
+255,Karitane
+256,Red Hill
+257,Tennyson Inlet
+263,Paraparaumu Beach
+264,Hilltop
+266,Cashmere
+268,Parua Bay
+269,Ashhurst
+273,Mangere Bridge
+281,Upper Riccarton
+282,Koitiata
+284,Greymouth
+287,Gonville
+291,Clendon Park
+292,Okere Falls
+293,Pine Hill
+295,Southbridge
+296,Haumoana
+304,Mairehau
+306,Tuahiwi
+312,Kiripaka
+314,Clifton
+315,Kawakawa Bay
+320,Makarau
+323,Snells Beach
+324,Corsair Bay
+330,Waihi
+336,Birchville
+339,Shiel Hill
+341,Three Kings
+343,Otaio
+347,Woodhill Forest
+357,Judea
+360,Beachlands
+361,Otamatea
+364,Onewhero
+371,Waikaka
+373,Aria
+374,Burleigh
+377,Woolwich
+378,Greenmeadows
+379,Strathmore Park
+383,Horotiu
+387,Tai Tapu
+388,Napier Port
+392,Wairoa
+397,Saint Johns
+398,Hillsborough
+399,Cable Bay
+401,Paengaroa
+402,Makarewa
+404,Whakatete Bay
+406,Karori
+407,Coutts Island
+408,Bombay
+411,Tikorangi
+412,Takaro
+413,Wilton
+416,Pukerua Bay
+428,Churton Park
+430,Coal Creek
+436,Hurdon
+440,Glenview
+442,Ryal Bush
+443,Maori Hill
+444,Point Wells
+451,Lake Coleridge
+452,Avondale
+454,Calton Hill
+455,Coastlands
+456,Atarau
+457,Cornwallis
+458,Tuakau
+461,Glenside
+462,Parakai
+464,Huntington Park
+466,Berwick Forest
+468,Eastern Beach
+469,Ruawai
+470,Howick
+471,Huntsbury
+473,Tamarau
+479,Plimmerton
+486,Chartwell
+491,Brockville
+492,Tamaterau
+496,Highland Park
+498,Blagdon
+499,Aka Aka
+508,Washington Valley
+509,Hillcrest
+511,Patutahi
+517,Sandspit
+518,Waitakaruru
+519,Moutoa
+521,Nukutawhiti
+524,Te Kowhai
+525,Meremere
+528,Nukuhau
+532,Saint Albans
+545,Maungatapu
+547,Woodbourne
+549,Southgate
+552,Cass Bay
+553,Mangatangi
+555,Opito Bay
+557,Appleby
+574,North New Brighton
+580,Halfway Bush
+584,Northcote Point
+589,Mount Roskill
+594,Pukeuri
+596,Silverdale
+603,Melrose
+604,Maitai
+606,Goodwood Heights
+609,Blue Mountains
+613,Aro Valley
+615,Matakatia
+617,Newmarket
+618,Elsdon
+623,Glen Avon
+624,Greenhithe
+625,Islington
+626,Whakatiwai
+629,Bunnythorpe
+630,Huntingdon/Lake Hood
+633,Waimate North
+636,Ferndale
+637,Karangahake
+639,Glen Innes
+642,Jervoistown
+644,Sunnyhills
+646,Rockdale
+648,Tainui
+653,Mangaroa
+655,Pauanui
+660,Bideford
+661,Judgeford
+665,Glentunnel
+667,Pouto
+668,Lookout Point
+669,Kumeu
+671,Motutapere Island
+672,Tawharanui Peninsula
+674,Kaikorai
+677,Grey Lynn
+678,Enderley
+679,Manurewa
+689,Takamatua
+691,Claudelands
+692,Middleton
+696,Palm Beach
+699,Poike
+700,Waikiwi
+704,Wakari
+705,Gordonton
+708,Doyleston
+712,Te Hapara
+717,Mairangi Bay
+718,Totara Park
+722,Cockle Bay
+725,Mahoenui
+726,Dannemora
+730,Andersons Bay
+733,Maymorn
+737,Orakei
+738,Red Beach
+740,Opoho
+741,Morven
+743,Hunterville
+744,Helensburgh
+745,Poroti
+747,Point England
+754,Bradford
+755,Coroglen
+762,Waitati
+763,Randwick Park
+774,Coopers Beach
+780,Windsor
+782,College Estate
+783,Ararimu
+784,Castle Hill
+785,Phillipstown
+786,Dunedin Central
+787,Te Marua
+788,Atapo
+789,Lansdowne
+793,Ocean Grove
+796,Frimley
+797,Rimutaka Hill
+801,Waikanae Beach
+803,Helensville
+804,Boulcott
+806,Ngaruawahia
+809,Newfield
+813,Jackson Bay
+814,Whatatutu
+815,Rangiwahia
+816,Cloverlea
+817,Birkdale
+818,Balcairn
+821,Mount Pleasant
+822,Glenwood
+823,Saint Marys Bay
+824,Richmond
+828,Porangahau
+829,Burnside
+830,Thornton Bay
+831,Waimangaroa
+835,Mangawhai Heads
+837,Waverley
+839,Ohangai
+840,Waitangi
+841,Tikipunga
+843,Kingsland
+846,Christchurch Central
+847,Lauriston
+848,Temple View
+849,Omori
+851,Port Charles
+852,Pigeon Bay
+854,Kensington
+857,Onemana
+862,Hillcrest
+864,Himatangi Beach
+866,Newstead
+867,Hataitai
+872,Sydenham
+873,Castor Bay
+879,Broadmeadows
+885,Whakarongo
+887,Marfell
+888,Long Bay
+889,Westmorland
+890,Seaview
+897,Kinleith
+898,Whitby
+899,Henderson
+902,Roseneath
+903,Ranui
+905,Te Atatu Peninsula
+906,Ellerslie
+907,Kingseat
+910,Waikawau
+913,Rosehill
+915,Macandrew Bay
+917,Blackball
+921,Huntington
+926,Taylorville
+927,Musselburgh
+932,Glenholme
+936,Bromley
+938,East Tamaki Heights
+941,Ruawaro
+944,Whiritoa
+946,Milson
+947,Pinehill
+948,Orini
+951,Elgin
+953,Heretaunga
+957,Christchurch Airport
+959,Albany Heights
+960,Mount Albert
+964,Spreydon
+965,Ward
+970,Sanson
+973,Turitea
+975,Rarangi
+976,Ocean View
+981,Dovedale
+984,Waikino
+986,Waiheke Island
+990,Whitikahu
+991,Abbotsford
+1002,Meeanee
+1004,Mangere
+1009,Ikawai
+1013,Mahau Sound
+1014,Turakina
+1025,Ardmore
+1027,Middlemore Hospital
+1029,Maraetai
+1032,Leigh
+1035,Bridge Pa
+1037,Langs Beach
+1044,Inner Kaiti
+1045,Tauranga Central
+1046,Torbay
+1047,Northcote
+1052,Green Island
+1053,Prestonville
+1060,Lake Rotoma
+1064,Maori Hill
+1072,Pitt Island
+1074,Somerfield
+1078,Morningside
+1079,Maungaturoto
+1081,Tauwhare
+1083,Allenton
+1088,Whangamata
+1089,Matauri Bay
+1090,Rototuna
+1092,Ascot Park
+1093,Mount Victoria
+1095,Prebbleton
+1097,Trentham
+1099,Omahu
+1100,Tindalls Beach
+1102,Manawahe
+1106,Tiakitahuna
+1109,The Glen
+1111,Avonhead
+1117,Queenwood
+1118,Russley
+1120,Belleknowes
+1124,Mangakakahi
+1125,Wadestown
+1128,Ashburton
+1132,Greenlane
+1133,Kaiaua
+1136,Ohaeawai
+1138,Okoki
+1140,Ngapuna
+1142,Epsom
+1154,Smithfield
+1161,Runciman
+1162,Virginia
+1164,Wellington Central
+1166,Waimauku
+1171,Brookby
+1174,Clarkville
+1175,Harrowfield
+1177,Hikutaia
+1178,Te Puna
+1179,Northgate
+1182,Gate Pa
+1183,Charteris Bay
+1184,Redwood Valley
+1185,Hobsonville
+1191,Kingswell
+1192,Georgetown
+1194,Forrest Hill
+1195,Grasmere
+1202,Laingholm
+1204,Henderson Valley
+1207,Brown Owl
+1209,Maungati
+1212,Dairy Flat
+1213,Sorrento Bay
+1214,Tangimoana
+1216,Rotokauri
+1219,Ashley
+1221,Richmond Downs
+1223,Pukehangi
+1230,Whareora
+1232,Northpark
+1234,Clarks Beach
+1235,Epuni
+1236,Mount Grand
+1237,Waitarere Beach
+1240,Rotherham
+1241,Taradale
+1242,Saint Leonards
+1253,Manukau
+1259,Cracroft
+1262,Heathcote Valley
+1263,Manutuke
+1268,Glen Massey
+1269,Kelburn
+1274,Horsham Downs
+1277,Mangamahu
+1278,Aniseed Valley
+1281,Saint Leonards
+1287,Norsewood
+1289,Totara Heights
+1293,Kakanui
+1295,Oratia
+1298,Ngahere
+1300,Tomarata
+1303,Wardville
+1305,Lucas Heights
+1306,Kuratau
+1313,Mana
+1315,Raumati Beach
+1316,Totara
+1320,Foxton Beach
+1321,Hunter
+1327,Harewood
+1329,Pukekohe
+1331,Port Chalmers
+1335,Nine Mile
+1341,Ohau
+1342,Mission Bay
+1344,Luggate
+1347,Terrace End
+1348,Hillsborough
+1349,Matatoki
+1350,Haruru
+1352,Elderslea
+1354,Kuripapango
+1355,Bryndwr
+1360,Atiamuri
+1361,Lower Hutt
+1362,Strowan
+1364,Ikamatua
+1365,Avalon
+1366,Coatesville
+1367,Makikihi
+1368,Manly
+1370,Leslie Hills
+1371,Motatau
+1373,Dartmoor
+1374,Dunollie
+1380,Marybank
+1381,Waharoa
+1383,Matahi
+1389,Solway
+1391,Kakahi
+1392,Hatfields Beach
+1394,Mourea
+1397,Mangatarata
+1398,Whatawhata
+1406,Whitford
+1411,Tirohanga
+1417,Pakuranga Heights
+1419,Ahipara
+1420,Stepneyville
+1422,Opoutere
+1427,Halswell
+1430,Berhampore
+1435,Te Puru
+1438,Bay View
+1448,Pipiwai
+1453,Mercer
+1454,Freemans Bay
+1456,Fordlands
+1457,Waiake
+1461,Okura
+1465,Awarua
+1466,Hurunui
+1470,Balaclava
+1471,Hampstead
+1472,Puni
+1475,Horahora
+1477,Maeroa
+1478,Redwoodtown
+1479,Hunua
+1480,Te Arai
+1483,Hamurana
+1484,Karamu
+1485,West Harbour
+1487,Lyttelton
+1488,Outer Kaiti
+1489,Strandon
+1490,Omokoroa
+1491,New Windsor
+1498,Highfield
+1500,Ohoka
+1503,Point Chevalier
+1506,Meadowbank
+1507,Pollok
+1513,Hairini
+1517,Matawaia
+1518,Taipa
+1520,Taita
+1521,Westbrook
+1523,Harwood
+1530,Avenues
+1532,Pouawa
+1534,Fairfield
+1540,Shelly Park
+1541,Parau
+1542,Wharehine
+1544,Miranda
+1545,Belmont
+1555,Koutu
+1557,Ravensbourne
+1560,Upper Moutere
+1561,Ferrymead
+1564,Unsworth Heights
+1570,Houghton Bay
+1574,Melville
+1578,Avonside
+1580,Te Hoe
+1583,Algies Bay
+1585,Motumahanga (Saddleback)
+1586,Awatere Valley
+1590,Pahurehure
+1595,Ramarama
+1596,Arrowtown
+1597,Great Barrier Island
+1599,Okitu
+1600,Moncks Bay
+1601,Whau Valley
+1602,Robinsons Bay
+1603,Korokoro
+1607,Glen Eden
+1609,Rosewill
+1611,Kaitoke
+1623,Peria
+1624,Woodhaugh
+1630,Bellevue
+1634,Hannahs Bay
+1635,Manukau Heads
+1642,Awhitu
+1645,Thames
+1647,Opaheke
+1648,Carters Beach
+1649,Ohinemutu
+1652,Wharewaka
+1654,Makaraka
+1655,Scargill
+1657,Mokau
+1660,Hillmorton
+1661,New Brighton
+1665,Drury
+1666,Westport
+1667,Porirua
+1673,Clover Park
+1675,Patumahoe
+1677,Kensington
+1679,Taruheru
+1683,Kingston
+1685,Westwood
+1693,Ti Point
+1695,Apiti
+1696,Days Bay
+1697,Te Kopuru
+1698,Northcross
+1701,Highlands Park
+1702,Rongotai
+1705,Hamilton Lake
+1709,Aranui
+1711,Te Poi
+1716,Hamilton East
+1718,Westmere
+1720,Russell
+1721,French Farm
+1724,Queenstown Central
+1726,Caversham
+1728,Orere Point
+1729,Waltham
+1731,Tihiotonga
+1732,Kokopu
+1733,Tikitere
+1734,Kaukapakapa
+1736,Pegasus
+1737,Thorpe
+1738,Kingston
+1740,Parewanui/Scott's Ferry
+1744,Lake Okareka
+1745,Fox Glacier
+1747,Bishopdale
+1750,Haywards
+1751,Gisborne
+1753,Roseneath
+1755,Fairfield
+1758,Khandallah
+1759,Waikite Valley
+1760,Redruth
+1761,South New Brighton
+1765,Concord
+1771,Ahuriri
+1772,Waihao Downs
+1773,Hampden
+1777,Glenleith
+1780,Taharoa
+1781,Pakowhai
+1782,Flaxmere
+1785,Woburn
+1786,Fenton Park
+1788,Manawaru
+1790,Marewa
+1791,Riverside
+1797,Marshland
+1801,Pakuratahi
+1803,Otangarei
+1807,Diamond Harbour
+1811,Waverley
+1812,Blenheim Central
+1813,Hinakura
+1816,Narrow Neck
+1821,Britannia Heights
+1822,Sunnynook
+1824,Hahei
+1829,Ness Valley
+1831,Paerata
+1833,Maoribank
+1834,Cust
+1839,Bayview
+1840,Mount Eden
+1843,Schnapper Rock
+1846,Welbourn
+1847,Monaco
+1849,Matamata
+1850,Herne Bay
+1852,Whangarei Central
+1856,Silverstream
+1858,Arapohue
+1860,Kainga
+1861,Awapuni
+1865,Port Whangarei
+1866,Hexton
+1870,Tamahere
+1877,Bastia Hill
+1879,Kew
+1880,Mahurangi West
+1881,Oropi
+1882,Avenal
+1884,Eureka
+1885,Marsden
+1886,Riverdale
+1890,Kew
+1891,Moerewa
+1893,Hastings
+1897,Ruakaka
+1902,Merrilands
+1904,Watlington
+1905,Woodhill
+1906,West End
+1907,West Plains
+1913,Elephant Hill
+1915,Stanmore Bay
+1924,Deanwell
+1928,Avalon
+1929,Roslyn
+1930,Kirwee
+1934,Ratana
+1942,East Taieri
+1944,Tokanui
+1945,Paewhenua Island
+1946,Kirkliston
+1948,Rotorua Central
+1951,Ngawha Springs
+1952,Tawhero
+1953,Taneatua
+1956,Glenross
+1958,Waddington
+1959,MacDonald Downs
+1962,Remuera
+1964,Ngauranga
+1965,Otamauri
+1966,Lake Tarawera
+1969,Winchmore
+1974,Taupiri
+1976,Whitemans Valley
+1978,Point Howard
+1979,Okains Bay
+1981,Marybank
+1983,Panmure
+1984,Pukekawa
+1985,Pakotai
+1990,Glenavy
+1992,Maunganamu
+1993,Lynmouth
+1995,Toi Toi
+2001,Chatswood
+2002,Durie Hill
+2003,Farm Cove
+2008,Whangaroa
+2009,The Brook
+2010,Richmond
+2014,Papakura
+2017,Kahurangi National Park
+2019,Otumoetai
+2022,Holdens Bay
+2040,Lowry Bay
+2041,Waihopai Valley
+2042,Baverstock
+2044,Half Moon Bay
+2046,Whitiora
+2048,Roslyn
+2052,Kaeo
+2054,Te Araroa
+2058,Spring Creek
+2060,Mahia
+2065,Timberlea
+2071,Ngaio
+2073,Fairview Heights
+2079,Waikari
+2080,Waipori Falls
+2081,Leith Valley
+2082,Petone
+2083,Richmond Hill
+2085,Glenduan
+2086,Waterloo
+2087,Kaingaroa
+2088,Waitangi
+2090,Waitakere
+2091,Nelson South
+2092,Templeton
+2096,Oteha
+2097,Sockburn
+2100,Albany
+2103,Redwood
+2110,Denniston
+2118,Wigram
+2127,Leithfield
+2132,Waipawa
+2135,Brooklands
+2136,Otara
+2137,Whangamoa
+2138,Lynmore
+2139,Papanui
+2140,Penrose
+2144,Maungatapere
+2147,Waiau Pa
+2148,Tuamarina
+2149,Auckland Airport
+2151,Stoke
+2155,Waterview
+2156,Purau
+2160,Cape Foulwind
+2162,Dinsdale
+2163,Winchester
+2165,Waimataitai
+2168,Otaki Beach
+2170,Johnsonville
+2171,Waipu
+2180,Buckland
+2182,Northwood
+2183,Seatoun
+2186,Nelson City
+2188,Albert Town
+2189,Puriri
+2191,Deborah Bay
+2193,Pataua
+2197,Mornington
+2202,Broad Bay
+2203,Towai
+2204,Onetangi
+2205,Kauri
+2209,Strathern
+2212,Sandringham
+2213,Pukerau
+2217,Manor Park
+2219,Redvale
+2224,Pakaraka
+2229,Waitoki
+2230,Glenbrook
+2235,Sumner
+2236,Fairfield
+2240,Kenmure
+2242,Mangere East
+2244,Newtown
+2245,East Tamaki
+2247,Kelvin Heights
+2250,Turangaomoana
+2259,Stokes Valley
+2263,Matua
+2265,Brookfield
+2266,Lake Alice
+2271,Churchill
+2273,Burbush
+2276,Stephens Island (Takapourewa)
+2279,East Cape
+2285,Devonport
+2287,Longburn
+2288,Albury
+2296,Alicetown
+2297,Pakipaki
+2300,Waihaorunga
+2303,Whakatu
+2306,Newbury
+2307,Arthurs Point
+2311,Broadlands
+2313,Murrays Bay
+2317,Waiwhare
+2321,Birdlings Flat
+2322,Lichfield
+2323,Wattle Downs
+2325,Blackhead
+2328,Southshore
+2329,Fitzroy
+2331,Tasman
+2333,Camborne
+2336,Browns Bay
+2339,Puketaha
+2347,Westown
+2348,Opawa
+2351,Barrytown
+2352,Karaka Bays
+2357,Pakiri
+2358,Gladstone
+2359,Okauia
+2360,Favona
+2363,Northcote
+2367,Te Awa
+2368,Tiniroto
+2369,Mangaorapa
+2370,Todds Valley
+2373,Parkvale
+2375,Maketu
+2376,Opua
+2378,Tauriko
+2380,Moana
+2384,Huia
+2387,Saint Johns Hill
+2392,Vogeltown
+2394,Manurewa East
+2395,Onekawa
+2396,Parkvale
+2397,Scroggs Hill
+2400,Riverstone Terraces
+2404,Roys Hill
+2405,Whenuakite
+2407,Westmere
+2411,Grafton
+2412,Cannons Creek
+2414,Selwyn Heights
+2421,Pokeno
+2424,Waimairi Beach
+2428,Riverhead
+2434,Wainui
+2436,Flagstaff
+2438,Sawyers Bay
+2440,Tomoana
+2441,Omata
+2444,Western Springs
+2447,Delaware Bay
+2465,Rosedale
+2478,Mayfair
+2482,Broomfield
+2485,Bishopdale
+2489,Pukehina
+2491,Oriental Bay
+2495,Vauxhall
+2497,Burnside
+2500,Belmont
+2509,Mahora
+2515,Marchwiel
+2518,Whangaehu Valley
+2519,Titahi Bay
+2521,Totara Vale
+2522,Craigs Flat
+2529,Careys Bay
+2535,Hohonu
+2542,Gordon
+2543,Port Albert
+2544,Utuhina
+2547,Hargest
+2549,Kelson
+2552,Tuturumuri
+2553,Rototuna North
+2554,Kelvin Grove
+2556,Owhata
+2558,Birkenhead
+2562,North Taieri
+2568,Castlecliff
+2569,Pinehaven
+2571,Otaua
+2573,Wiri
+2576,Aramoana
+2577,Miramar
+2578,West Melton
+2581,Western Heights
+2583,Mount Wellington
+2587,Duvauchelle
+2593,Fairy Springs
+2599,Ohakea
+2602,Frankton
+2604,Shannon
+2607,Alfriston
+2611,Port Levy
+2615,Sunnyvale
+2616,Otaika
+2618,Springston
+2621,Moonshine Valley
+2622,Glendene
+2624,Clyde Hill
+2625,Paremata
+2626,Rukuhia
+2630,Glenfield
+2631,Palmerston North Central
+2633,Rangiriri West
+2634,Linwood
+2637,Rotoorangi
+2638,Seaview
+2639,Te Rapa
+2641,Sherenden
+2644,Windsor Park
+2647,Brooklyn
+2649,Hikurangi
+2650,Wallaceville
+2651,Kaimarama
+2652,Ohariu
+2662,Tinwald
+2663,Beckenham
+2666,Mangapapa
+2669,Matapouri
+2670,Pukete
+2671,Maromaku
+2673,Little Akaloa
+2679,Ormondville
+2681,Clive
+2685,Kennedys Bush
+2687,Kawaha Point
+2688,Tutukaka
+2694,Rolleston
+2697,Kihikihi
+2702,Springvale
+2706,Te Kaha
+2708,Bayswater
+2710,Addington
+2716,Te Miro
+2718,Matahiwi
+2720,Merivale
+2721,Totara Flat
+2723,Waitangirua
+2724,Maia
+2727,Richmond Heights
+2728,Kelston
+2732,Tinopai
+2734,Mount Maunganui
+2736,Golden Downs
+2738,Waikuku
+2743,Otira
+2752,Riverlea
+2757,Maupuia
+2758,Tangoio
+2762,Grandview Heights
+2764,Spotswood
+2765,Western Heights
+2766,Grenada Village
+2767,Massey
+2770,Burwood
+2772,Bader
+2773,Burswood
+2774,Aokautere
+2776,Blockhouse Bay
+2780,Weymouth
+2782,Northland
+2787,Bucklands Beach
+2788,Mamaku
+2789,Greerton
+2791,Ngakuru
+2795,Papatoetoe
+2797,Le Bons Bay
+2798,Hot Water Beach
+2799,Wakapuaka
+2803,Richmond
+2804,Renwick
+2805,Otakiri
+2807,Rotoma
+2810,Botany Downs
+2812,Waverley
+2815,Crownthorpe
+2818,Edgeware
+2819,Golflands
+2820,Pauatahanui
+2823,Maraenui
+2824,Saddle Hill
+2826,Aongatete
+2828,Rangiriri
+2829,Maungaraki
+2832,Whananaki
+2833,Porirua East
+2835,Kopu
+2836,Opaki
+2838,Waiatarua
+2840,Waiomio
+2843,Mount Cargill
+2847,Kaitaia
+2849,Paihia
+2850,Enner Glynn
+2855,Dobson
+2856,Naenae
+2859,Maryhill
+2861,Massey University
+2865,Parkside
+2867,Heidelberg
+2869,Wanaka
+2870,Mangatawhiri
+2873,Whakapirau
+2875,Muriwai
+2876,Mellons Bay
+2877,Kawau Island
+2881,Army Bay
+2884,Belfast
+2886,Clandeboye
+2891,Marsden Point
+2894,Stockton
+2896,Ngarua
+2899,Onehunga
+2907,Hunters Hills
+2909,Aotea
+2914,Hampton Downs
+2916,Waerenga
+2919,Takanini
+2924,Pukemoremore
+2925,Ngahinapouri
+2928,Te Atatu South
+2934,Bexley
+2935,Grovetown
+2937,Beerescourt
+2938,Campbells Bay
+2941,Whakamarama
+2945,Pipiroa
+2948,Grenada North
+2951,Shamrock Park
+2956,Ranui Heights
+2958,Wakatu
+2959,Beach Haven
+2962,Paremoremo
+2965,Stillwater
+2967,Malvern Hills
+2968,West End
+2969,Otaihanga
+2970,Okoia
+2971,Eden Terrace
+2972,Green Bay
+2975,Ebdentown
+2976,Thornton
+2977,Crofton Downs
+2984,Parapara
+2990,Peka Peka
+2993,Stillwater
+2995,Kokatahi
+2997,Wayby Valley
+3000,Highbury
+3002,Edgecumbe
+3004,Underwood
+3007,Omaha
+3008,Whanawhana
+3010,Royal Oak
+3012,Chedworth
+3013,Ngunguru
+3017,The Wood
+3019,Burnham
+3020,Victoria
+3022,Upper Waitati
+3024,Hoon Hay
+3026,Nawton
+3027,Glendowie
+3028,Wainui
+3029,Hei Hei
+3031,Fairview Downs
+3033,Conifer Grove
+3034,Whangaehu
+3040,Papaiti
+3043,Ruakituri
+3045,Pukekohe East
+3046,Orewa
+3047,Pukewharariki
+3048,Horokiwi
+3049,Dallington
+3058,Waiwera
+3062,Mount Cook
+3063,Silverdale
+3064,Karekare
+3066,Matapihi
+3068,Hauraki
+3071,Opiki
+3081,Aramoho
+3082,Ruakura
+3087,Mornington
+3088,North Dunedin
+3090,Casebrook
+3093,Liberton
+3095,Auckland Central
+3104,Longlands
+3106,Tahunanui
+3108,Ostend
+3109,Tapapa
+3112,Appleby
+3116,Whangaripo
+3117,Kaiata
+3118,Mangaweka
+3119,Regent
+3123,Waimate
+3124,Te Hana
+3126,Riccarton
+3129,Forest Lake
+3131,Tarurutangi
+3143,Hororata
+3146,Mahurangi East
+3147,Hakataramea
+3149,Rosedale
+3150,Waldronville
+3151,Stanley Point
+3152,Lynfield
+3156,Beachville
+3157,Raupunga
+3159,Gleniti
+3160,Moera
+3162,Bethlehem
+3163,Akina
+3167,Hawthorndale
+3168,Whataupoko
+3169,Sheffield
+3171,Takapuwahia
+3174,Waiterimu
+3175,Leeston
+3176,York Bay
+3178,Gibbston
+3180,Gulf Harbour
+3181,Bannockburn
+3186,Rotongaro
+3187,Puhoi
+3190,Kingsley Heights
+3191,Port Nelson
+3192,Woolston
+3195,Lake Pearson
+3198,Hope
+3205,Normandale
+3207,Chaslands
+3210,Highbury
+3218,Mangateretere
+3219,Owhiro Bay
+3223,Chatham Island
+3224,Arkles Bay
+3225,Sefton
+3226,The Gardens
+3227,Karaka
+3230,Ohaupo
+3232,Swannanoa
+3233,Herald Island
+3234,Raumanga
+3236,Ponsonby
+3239,Oneroa
+3240,Wainoni
+3246,Melling
+3247,Glengarry
+3249,Fendalton
+3256,Fitzroy
+3257,Corstorphine
+3260,Mareretu
+3261,Twyford
+3264,Punakitere Valley
+3268,Middlemarch
+3277,Omaka
+3284,Horeke
+3286,Waipatu
+3291,Hillcrest
+3294,Omiha
+3296,Atawhai
+3297,Turnbull Thomson Park
+3298,Fordell
+3301,Halcombe
+3304,Kawhia
+3308,Saint Andrews
+3309,New Caledonia
+3310,Vanuatu
+3311,Rarotonga
+3312,Fiji
+3314,Mayfield
+3315,Confidential
+3687,Catlins Surrounds
+3688,Central Hawkes Bay Coastal
+3689,Central Hawkes Bay Country
+3690,Central Hutt
+3692,Coromandel Coast
+3694,Dargaville Surrounds
+3696,East Otago
+3697,Gisborne Country
+3698,Gore Surrounds
+3701,Hastings Country
+3708,Kenepuru Sound
+3709,Moana / Lake Brunner
+3710,Lake Hawea
+3712,Marlborough Country
+3713,Marlborough Sounds
+3715,Mt Cook
+3721,North Otago
+3722,North Otago Surrounds
+3725,Otamatea Surrounds
+3726,Other Islands
+3728,Pelorus Sounds
+3731,Riversdale Beach
+3732,Riverton & Surrounds
+3734,Ruapehu-King Country Surrounds
+3735,Ruatangata
+3736,Russell Surrounds
+3739,St Andrews
+3740,Stratford Surrounds
+3743,Wairoa Country
+3746,West Otago Surrounds
+3747,Westland Area
+3748,Westland Surrounds
+3750,Whakatane Surrounds
+3752,Winton Surrounds
+3753,Wyndham Surrounds
+3754,Kerikeri Surrounds
+3755,North Hokianga
+3761,Oakura Coast
+3779,Hibiscus Coast Surrounds
+3781,Tonga
+3783,Onerahi
+3784,Glenbervie
+3785,Okara
+3786,Parahaki
+3787,Kamo
+3788,Whakapara
+3789,Maunu
+3790,Mangapai and Surrounds
+3791,Whangarei Heads
+3792,Annesbrook
+3793,Hira
+3794,Queen Charlotte Sound
+3795,Okiwi Bay
+3796,Anakiwa and Surrounds
+3797,Picton
+3798,Waikawa
+3799,Witherlea
+3800,Springlands
+3801,Fairhall
+3802,Havelock
+3803,Rai Valley
+3804,Rapaura
+3805,Riverlands
+3806,Seddon
+3807,Wairau Valley
+3808,Glenorchy
+3810,Closeburn
+3811,Fernhill/Sunshine Bay
+3812,Jacks Point
+3816,Frankton
+3818,Cardrona
+3820,Hawea Flat
+3821,Treble Cone/Mount Aspiring
+3822,Linton
+3823,Hukerenui and Surrounds
+3824,Mangonui
+3825,Taupo Bay/Totara North
+3826,Awanui
+3827,Houhora
+3828,Herekino
+3829,Opononi
+3830,Rawene
+3831,Mangamuka
+3832,Karikari Peninsula
+3833,Kawakawa
+3834,Omapere
+3835,Kaikohe West
+3836,Otahuhu
+3837,Clevedon
+3838,Parnell
+3839,Waiuku
+3840,Matakana
+3841,Kaipara Flats
+3842,Warkworth
+3843,South Head
+3844,Piha
+3845,Waipoua
+3846,Dargaville
+3847,Tangiteroria
+3848,Kaiwaka
+3849,Topuni
+3850,Paeroa
+3851,Kaihere
+3852,Ngatea
+3853,Hauraki Surrounds
+3854,Coromandel
+3856,Tairua
+3857,Hikuai
+3858,Whitianga
+3859,Tuateawa
+3860,Te Kouma
+3861,Te Mata
+3862,Waiomu
+3863,Whangapoua
+3864,Cooks Beach
+3865,Kuaotunu
+3867,Turua
+3868,Bruce Bay
+3869,Haast
+3870,Ross
+3871,Harihari
+3872,Franz Josef Glacier
+3873,Hokitika
+3874,Kaniere
+3875,Kumara
+3876,Whataroa
+3877,Gore
+3878,Oreti Beach
+3879,Otatara
+3880,Bluff
+3881,Awarua
+3882,Waimatua
+3883,Invercargill
+3884,Clifton
+3885,Tisbury
+3886,Mill Road
+3887,Myross Bush
+3888,Roslyn Bush
+3889,Lorneville
+3890,Whangape
+3891,Port Waikato
+3892,Te Anau Surrounds
+3893,Lumsden Surrounds
+3894,Stewart Island
+3895,Orepuki
+3896,Nightcaps
+3897,Ohai
+3898,Otautau
+3899,Thornbury
+3900,Wallacetown
+3901,Tuatapere
+3902,Mossburn
+3903,Manapouri
+3904,Riversdale
+3905,Taieri Mouth
+3906,Waihola
+3907,Milton
+3908,Kaitangata
+3909,Kaka Point
+3910,Balclutha
+3911,Papatowai/Pounawea
+3912,Owaka
+3913,Clinton and Surrounds
+3914,Henley
+3915,Brighton
+3916,Warrington
+3917,Waikouaiti
+3918,Purakaunui
+3919,Normanby
+3920,Harington Point
+3921,Portobello
+3922,Company Bay
+3923,Saint Kilda
+3924,Outram
+3925,Allanton
+3926,Mosgiel
+3928,Hyde
+3929,Omarama
+3930,Lake Ohau
+3931,Otematata
+3932,Kurow
+3933,Duntroon
+3934,Moeraki
+3935,Palmerston
+3936,Herbert
+3937,Maheno
+3938,Oamaru
+3939,Enfield and Surrounds
+3940,Weston
+3941,Five Forks and Surrounds
+3942,Kawerau
+3943,Waihau Bay
+3944,Opotiki Coastal
+3946,Opotiki and Surrounds
+3947,Matata
+3948,Ohope
+3949,Whakatane
+3950,Murupara Surrounds
+3951,Waimana
+3952,Te Teko
+3953,Welcome Bay
+3954,Papamoa
+3955,Te Puke
+3956,Kaimai
+3957,Waihi Beach
+3958,Athenree
+3959,Katikati
+3961,Ngongotaha
+3962,Reporoa and Surrounds
+3963,Horohoro
+3964,Whakarewarewa
+3965,Rerewhakaaitu
+3966,Rotoiti Forest
+3967,Nuhaka/Morere
+3968,Wairoa
+3969,Tuai/Ohuka
+3970,Kotemaori
+3971,Elsthorpe
+3972,Otane
+3973,Waipukurau and Surrounds
+3974,Te Haroto
+3975,Tutira
+3976,Eskdale
+3977,Puketitiri
+3978,Te Awanga
+3979,Havelock North
+3980,Waimarama
+3981,Poukawa
+3982,Maraekakaho
+3983,Ongaonga
+3984,Napier Hill
+3985,Westshore
+3986,Napier Central
+3987,Puketapu
+3988,Poraiti
+3989,Avenues
+3990,Hicks Bay
+3991,Ruatoria and Surrounds
+3992,Tokomaru Bay
+3993,Tolaga Bay
+3994,Matawai
+3995,Ngatapa
+3996,Muriwai
+3997,Te Karaka
+3998,Awapuni
+3999,Stratford
+4000,Douglas
+4001,Tahora
+4002,Pohokura and Surrounds
+4003,Midhirst
+4004,Tongaporutu
+4005,Uruti
+4006,Waitara
+4007,Urenui
+4008,Bell Block
+4009,Hillsborough
+4010,Vogeltown
+4011,Okato
+4012,Oakura
+4013,Inglewood
+4014,Tarata
+4015,Lepperton
+4016,Egmont Village
+4017,Hurworth
+4018,Frankleigh Park
+4019,Moturoa
+4020,Waitotara
+4021,Patea
+4022,Manutahi
+4023,Hawera
+4024,Eltham
+4025,Opunake
+4026,Manaia
+4027,Rahotu
+4028,Okaiawa
+4029,Matemateaonga
+4030,Tongariro
+4031,Waiouru
+4032,Ohakune
+4033,Raetihi
+4034,National Park
+4035,Ohura
+4036,Taumarunui
+4037,Waimiha-Ongarue
+4038,Manunui
+4039,Owhango
+4040,Turangi
+4042,Taupo
+4043,Wairakei and Surrounds
+4044,Tahorakuri
+4045,Tauhara
+4046,Iwitahi
+4047,Taupo Surrounds
+4048,Lake Taupo (East)
+4049,Lake Taupo (West)
+4050,Mangakino
+4051,Levin
+4052,Waitarere
+4053,Manakau
+4054,Marton
+4055,Taihape and Surrounds
+4056,Bulls
+4057,Putiki
+4058,Kai Iwi
+4059,Parikino
+4060,Brunswick
+4061,Matahiwi
+4062,Feilding
+4063,Himatangi
+4064,Cheltenham
+4065,Waituna West
+4066,Otorohanga
+4067,Maihiihi
+4068,Oparau
+4069,Tirau
+4070,Tokoroa
+4071,Putaruru
+4072,Pirongia
+4073,Cambridge
+4074,Te Pahu
+4075,Te Awamutu
+4076,Wharepapa South
+4077,Awakino
+4078,Piopio
+4079,Te Kuiti
+4080,Waitomo
+4081,Benneydale
+4082,Marokopa
+4083,Huntly
+4084,Raglan
+4085,Te Akau
+4086,Te Kauwhata
+4087,Maramarua
+4088,Morrinsville
+4089,Te Aroha
+4090,Tahuna
+4091,Waitoa
+4092,Hamilton Central
+4093,Waikanae
+4094,Te Horo
+4095,Raumati South
+4096,Paraparaumu
+4097,Paekakariki
+4098,Otaki
+4099,Akatarawa
+4100,Upper Hutt
+4101,Mahina Bay
+4102,Eastbourne
+4103,Pencarrow Head
+4104,Wainuiomata
+4105,Lyall Bay
+4106,Makara
+4107,Thorndon
+4108,Tawa
+4109,Newlands
+4110,Saint Andrews
+4111,Hakataramea Valley
+4112,Lake Tekapo
+4113,Fairlie
+4114,Twizel
+4115,Oxford
+4116,West Eyreton
+4117,Woodend
+4118,Glentui
+4119,Kaiapoi
+4120,Rangiora
+4121,Okuku
+4122,Akaroa
+4123,Governors Bay
+4124,Little River
+4125,Motukarara
+4126,Wainui
+4127,Arthur's Pass
+4128,Darfield
+4129,Dunsandel
+4130,Lincoln
+4131,Springfield
+4132,Craigieburn
+4133,Hanmer Springs
+4134,Amberley
+4135,Cheviot
+4136,Culverden
+4137,Gore Bay
+4138,Hawarden
+4139,Hundalee
+4140,Waipara
+4141,Motunau
+4142,Waiau
+4143,Lewis Pass
+4144,Loburn
+4145,Geraldine
+4146,Fairview
+4147,Pareora
+4148,Mesopotamia
+4149,Washdyke
+4150,Hadlow
+4151,Timaru Central
+4152,Levels
+4153,Temuka
+4154,Pleasant Point
+4155,Mayfield
+4156,Methven
+4157,Mount Somers
+4158,Rakaia
+4159,Hinds
+4160,Lismore
+4161,Fairton
+4162,Chertsey
+4163,Elgin
+4164,Westerfield
+4165,Winslow
+4166,Eiffelton
+4167,Yaldhurst
+4168,Hornby
+4169,Brooklands
+4170,Collingwood
+4171,Brightwater
+4172,Motueka
+4173,Murchison
+4174,St Arnaud
+4175,Takaka
+4176,Tapawera
+4177,Wakefield
+4178,Abel Tasman
+4179,Kaiteriteri
+4180,Ngatimoti
+4181,Mapua
+4182,Mahana
+4183,Richmond
+4184,Alexandra
+4185,Clyde
+4186,Cromwell
+4187,Naseby
+4188,Omakau
+4189,Ranfurly
+4190,Roxburgh
+4191,Roxburgh East
+4192,Nevis
+4193,Oturehua
+4194,Lindis Pass
+4195,Ettrick
+4196,Paerau
+4197,Clarence
+4198,Kaikoura
+4199,Hapuku
+4200,Oaro
+4201,Lawrence
+4202,Tapanui
+4203,Waitahuna
+4204,Greenfield
+4205,Waihemo
+4206,Deborah
+4207,Punakaiki
+4208,Reefton
+4209,Seddonville
+4210,Karamea
+4211,Charleston
+4212,Hector
+4213,Inangahua
+4214,Haupiri
+4216,Gladstone
+4217,Runanga
+4218,Cobden
+4219,Dannevirke
+4220,Pahiatua
+4221,Eketahuna
+4222,Woodville
+4223,Pongaroa
+4224,Cape Palliser
+4225,Featherston
+4226,Greytown
+4227,Martinborough
+4228,Pirinoa
+4229,Masterton
+4230,Tinui
+4231,Upper Plain
+4232,Mauriceville
+4233,Kiriwhakapapa
+4234,Wainuioru
+4235,Gladstone
+4236,Te Wharau
+4238,Carterton
+4239,Normanby
+4240,Palmerston North Surrounds
+4250,Whangaparaoa
+4251,Matakana Island
+4253,Stonefields
+4254,Kaiti
+4255,Spencerville
+4257,Lake Hayes Estate
+4258,Fernside
+4259,Castlepoint
+4260,Mataikona
+4261,Samoa
+4262,Waikawa Beach
+4263,Paparoa
+4264,Matakohe
+4265,Okaihau
+4266,Okarito
+4267,Paroa
+4268,Karoro
+4269,Rapahoe
+4270,Takapau
+4271,Tikokino
+4272,Huapai
+4273,Otahome
+4281,Pyes Pa
+4282,Oropi
+4283,Ohauiti
+4284,Aidanfield
+4285,Dalefield/Wakatipu Basin
+4286,Port Underwood
+4287,Hillpark
+4288,Parklands
+4289,Riverdale
+4290,Arapuni
+4291,Whangara
+4292,Waihou
+4293,Greta Valley
+4294,Queensberry
+4295,Lower Moutere
+4296,Makarora
+4297,Newton
+4298,Ormond
+4299,Pahoia
+4300,Weedons
+4301,Karapiro
+4302,Morningside
+4303,Matangi
+4304,Kaitoke
+4305,Mission Heights
+4306,Takahue
+4307,Lake Ferry
+4308,Ascot
+4309,Ruby Bay
+4310,Kerepehi
+4311,Lyford
+4312,Waiotaiki Bay
+4313,Shelly Beach
+4314,Napier South
+4315,Ophir
+4316,Lower Shotover
+4317,Glen Murray
+4318,Maungakaramea
+4319,Portland
+4322,Westgate
+4323,Lake Rotoiti
+4324,Lake Rotoehu
+4325,Hingaia
+4326,Waianiwa
+4327,The Pines Beach
+4328,Lytton West
+4329,Pukeatua
+4331,Millwater
+4332,Pukenui
+4334,Kaipaki
+4336,Queenstown Hill
+4337,Murupara
+4338,Balfour
+4339,Dipton
+4340,Edendale
+4341,Garston
+4342,Halfmoon Bay
+4343,Lumsden
+4344,Riverton
+4345,Te Anau
+4346,Waikaia
+4347,Winton
+4348,Wyndham
+4349,Castlerock
+4350,Whareroa
+4351,Tora
+4352,Mangorei
+4353,Korito
+4354,Broadlands Forest
+4355,Hatepe
+4356,Waipahihi
+4357,Oruanui
+4358,Waipaoa
+4359,Fitzherbert
+4360,Rangatira Park
+4361,Tokaanu
+4362,Motuoapa
+4363,Oruatua
+4364,Te Rangiita
+4365,Waitetoko
+4366,Pukawa
+4367,Mount Marua
+4368,Onaero
+4369,Waiwhakaiho
+4370,Colac Bay
+4371,Kaponga
+4372,Chain Hills
+4373,Hedgehope
+4374,Hokio Beach
+4375,Tarras
+4376,Berwick
+4377,Wynyard Quarter
+4378,Woodridge
+4379,Pohara
+4380,Motupipi
+4381,Tata Beach
+4382,Onekaka
+4383,Rangihaeata
+4384,East Takaka
+4385,Patons Rock
+4386,Pakawau
+4387,Ravenswood
+4388,Domett
+4389,Galatea
+4390,Poroporo
+4391,Awakeri
+4392,Pikowai
+4393,Raukawa
+4394,Waiohau
+4395,White Pine Bush
+4396,Ruatoki
+4397,Nukuhou
+4398,Rainbow Point
+4401,Milldale
+4433,Peacocke
+4434,Ara Hills
+4435,Hamilton Airport
+4439,Coalgate
+4440,Scarborough
+4441,Makauri
+4442,Woodend Beach
+4444,Upper Vogeltown
+4445,Lower Vogeltown
+4449,Long Beach
+4450,Sunnybrook
+4451,Wainui
+4453,Alfredton
+4454,Ohinewai
+4455,Ranui
+4456,Matawhero
+4457,Greenhill Park
+4458,Kaituna
+4459,North Bank
+4460,Tanners Point
+4461,Granity
+4463,Omakere
+4464,Millers Flat

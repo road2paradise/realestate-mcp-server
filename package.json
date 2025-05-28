@@ -1,0 +1,28 @@
+{
+  "name": "mcp-realestatenz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "build": "tsc && copy src\\suburbs.csv build\\",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "csv-parse": "^5.6.0",
+    "zod": "^3.25.30"
+  },
+  "devDependencies": {
+    "@types/csv-parse": "^1.2.5",
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  },
+  "files": [
+    "build"
+  ],
+  "bin": "build/index.js"
+}
